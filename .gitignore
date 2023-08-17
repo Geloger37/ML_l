@@ -1,9 +1,3 @@
-1.2/word2vec/
-1.2/self-trained_word2vec/
-1.2/self-trained_fasttext/
-1.2/fasttext/
-1.3/word2vec/
-1.3/self-trained_word2vec/
-1.3/self-trained_fasttext/
-1.3/fasttext/
-
+models/word2vec/
+models/fasttext/
+scripts/__pycache__/
